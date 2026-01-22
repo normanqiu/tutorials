@@ -1,7 +1,7 @@
-# Odoo tutorials
+# Odoo教程
 
-This repository hosts the code for the bases of the modules used in the
-[official Odoo tutorials](https://www.odoo.com/documentation/latest/developer/tutorials.html).
+此存储库承载了基础模块代码
+[官方 Odoo 教程](https://www.odoo.com/documentation/latest/developer/tutorials.html).
 
 It has 3 branches for each Odoo version: one for the bases, one for the
 [Discover the JS framework](https://www.odoo.com/documentation/latest/developer/tutorials/discover_js_framework.html)
